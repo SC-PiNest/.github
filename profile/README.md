@@ -32,9 +32,9 @@ WEAREHKNUSCTEAM8!
   </tr>
 </table>
 
-> 전현수 : Spring API 서버 개발 / AWS EC2 서버 및 RDS(MySQL) 구축, CRUD 기능 구현 <br><br>
-> 신수호 : BackEnd와 통신 및 Android Studio 개발, Firebase 서버 구축 <br><br>
-> 박해준 : HardWare와 통신 및 Android Studio 개발, UI/UX 디자인 <br><br>
+> 전현수 : Spring API 서버 개발 / AWS EC2 서버 및 RDS(MySQL) 구축 / CRUD 기능 구현 <br><br>
+> 신수호 : BackEnd와 통신 및 Android Studio 개발 / Firebase 서버 구축 <br><br>
+> 박해준 : HardWare와 통신 및 Android Studio 개발 / 앱 UI/UX 디자인 <br><br>
 > 이태호 : Raspberry Pi 개발
 </div>
 <br>
