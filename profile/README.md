@@ -18,6 +18,11 @@ WEAREHKNUSCTEAM8!
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+## Description
+- 이 프로젝트는 원격으로 실내 환경을 조절하고 관리하며, CCTV를 통해 실시간으로 집 내부를 모니터링할 수 있는 스마트 홈 케어 시스템을 구축하는 것을 목표로 하고 있습니다.
+- 또한, 비상 상황 발생 시 즉각적인 알림을 받아 가정의 안전을 강화할 수 있습니다. 이러한 시스템은 1인 가구나 맞벌이 가정 등 현대 사회의 변화하는 주거 환경에 대응하여, 편리함과 안전성을 동시에 제공하는 효율적인 해결책이 될 것입니다.
+- 추가적으로, 사용자는 전등이나 가전제품의 작동 시간을 미리 설정하는 예약 기능을 통해, 자동으로 기기를 제어하여 더욱 편리하고 효율적인 생활 환경을 조성할 수 있습니다.
+
 ## Architecture
 ![SC project 3-2 (8)](https://github.com/user-attachments/assets/dc192d9f-38df-45d8-9896-989915b04473)
 
