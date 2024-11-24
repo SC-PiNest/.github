@@ -5,6 +5,8 @@ WEAREHKNUSCTEAM8!
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=200&section=header&text=We&nbsp;Are&nbsp;HKNU&nbsp;SC&nbsp;TEAM&nbsp;8&nbsp;!&fontColor=FFFFFF&fontSize=60&animation=twinkling)
 
+<br>
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -19,6 +21,7 @@ WEAREHKNUSCTEAM8!
 ## Architecture
 ![SC project 3-2 (8)](https://github.com/user-attachments/assets/dc192d9f-38df-45d8-9896-989915b04473)
 
+<br>
 
 
 ## Tech Stack
