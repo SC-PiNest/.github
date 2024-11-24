@@ -1,4 +1,9 @@
+<!--
 ## Hi there 👋 We are HKNU SC Team 8!
+WEAREHKNUSCTEAM8!
+-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=200&section=header&text=HiThere👋　WeAreHKNUSCTEAM8!&fontColor=FFFFFF&fontSize=60&animation=twinkling)
 
 <!--
 
