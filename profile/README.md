@@ -5,7 +5,6 @@ WEAREHKNUSCTEAM8!
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=200&section=header&text=We&nbsp;Are&nbsp;HKNU&nbsp;SC&nbsp;TEAM&nbsp;8&nbsp;!&fontColor=FFFFFF&fontSize=60&animation=twinkling)
 
-<br>
 
 ## Roles in Charge
 
